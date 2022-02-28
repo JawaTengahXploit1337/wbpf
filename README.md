@@ -1,4 +1,4 @@
-# Tools wbpf
+# Tools WPBF
 Wordpress BruteForce
 
 # Command
